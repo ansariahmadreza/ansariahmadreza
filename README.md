@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansariahmadreza" alt="ansariahmadreza" /></a> </p>
 
-- 🌱 I’m currently learning **react and next.js**
+- 🌱 I’m currently learning **react and typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ansariahmadreza](https://github.com/ansariahmadreza)
 
