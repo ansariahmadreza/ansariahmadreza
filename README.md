@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmadreza</h1>
-<h3 align="center">From Humanities to Frontend – Designing thoughtful digital experiences.</h3>
 <p align="center">  
 <img src="https://github.com/ansariahmadreza/ansariahmadreza/blob/main/dev-banner.png" height="800" " width="800" />
 </p>
